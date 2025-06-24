@@ -9,7 +9,7 @@ The data used in this project comes from the [MIMII Dataset](https://paperswithc
 > **Note:** Due to the dataset's large size (~120 GB), the raw audio files are not included in this repository.  
 To run the experiments, download the dataset from the official source and place the `.wav` files under the `raw/` folder:
 
-the structure goes as follows:
+The structure goes as follows:
 
 project_root/
 
