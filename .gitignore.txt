@@ -1,0 +1,21 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Checkpoints y notebooks temporales
+notebooks/.ipynb_checkpoints/
+notebooks/*.nbconvert.ipynb
+utils/.ipynb_checkpoints/
+utils/*.nbconvert.ipynb
+
+# Datos grandes
+data/
+
+# Modelos entrenados
+results/
+
+
+# Archivos ocultos o temporales
+*.swp
+*.bak
+*.tmp
