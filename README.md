@@ -15,11 +15,11 @@ project_root/
 
     raw/
 
-    fan/
+        fan/
 
-    pump/
+        pump/
 
-    ...
+        ...
 
 
 ## Setup
