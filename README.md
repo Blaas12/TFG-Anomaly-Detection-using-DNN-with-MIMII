@@ -11,9 +11,13 @@ To run the experiments, download the dataset from the official source and place 
 
 the structure goes as follows:
 project_root/
+
 raw/
+
 fan/
+
 pump/
+
 ...
 
 
