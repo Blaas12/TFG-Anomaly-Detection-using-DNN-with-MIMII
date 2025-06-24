@@ -10,15 +10,16 @@ The data used in this project comes from the [MIMII Dataset](https://paperswithc
 To run the experiments, download the dataset from the official source and place the `.wav` files under the `raw/` folder:
 
 the structure goes as follows:
+
 project_root/
 
-raw/
+    raw/
 
-fan/
+    fan/
 
-pump/
+    pump/
 
-...
+    ...
 
 
 ## Setup
